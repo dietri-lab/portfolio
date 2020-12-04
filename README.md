@@ -5,7 +5,6 @@
  * 밸류쇼핑 개발
 
 # 사용 기술
-
 * BackEnd
  * Node.js + Typescript
  * Java + SpringBoot
