@@ -6,27 +6,27 @@
 
 # 사용 기술
 * BackEnd
- * Node.js + Typescript
- * Java + SpringBoot
- * Nginx
- * Haproxy Loadbalancer
+  * Node.js + Typescript
+  * Java + SpringBoot
+  * Nginx
+  * Haproxy Loadbalancer
 
 * FrontEnd
- * Angular
+  * Angular
 
 * DB
- * Mysql(MariaDB)
- * Redis
+  * Mysql(MariaDB)
+  * Redis
 
 * DevOps
- * Docker
- * AWS
- * Jenkins
- * Kubernetes
+  * Docker
+  * AWS
+  * Jenkins
+  * Kubernetes
 
 * Else
- * Slack
- * Jira
- * Trello
- * Git
- * Linux
+  * Slack
+  * Jira
+  * Trello
+  * Git
+  * Linux
