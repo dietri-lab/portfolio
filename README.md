@@ -9,9 +9,9 @@
 
 ## 사용 기술
 * BackEnd
- * Java + SpringBoot
- * asp
- * php
+  * Java + SpringBoot
+  * asp
+  * php
 
 * FrontEnd
   * thymeleaf
