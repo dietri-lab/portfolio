@@ -39,7 +39,7 @@
   * Tibero
   
 ## 프로젝트 (최신순)
-### (주)4차혁명 (2019.02 ~ 2019.05)
+### (주)4차혁명 (2019.02 ~ 2021.02)
 * Apache/Tomcat - Springboot, Mybatis, HandleBar, Vue.js - Sts, Eclipse - MariaDB
 * '밸류쇼핑' 부동산 플랫폼 웹(지도방식) 개발 및 유지보수 (https://valueshopping.land) 
 * '밸류쇼핑' 부동산 모바일 플랫폼 유지관리 
